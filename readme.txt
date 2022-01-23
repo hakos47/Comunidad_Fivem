@@ -1,3 +1,1 @@
-Prueba
-hola
-test
+Scripts para base qb-Framework
