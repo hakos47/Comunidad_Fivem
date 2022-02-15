@@ -1,1 +1,1 @@
-Subiremos scripts desarrollados por nosotros y realese de scripts para el freme work de qb
+En estes momentos se encuetran en mantenimiento para subir la nueva version.
