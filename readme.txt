@@ -1,1 +1,1 @@
-En estes momentos se encuetran en mantenimiento para subir la nueva version.
+-Añadido npc a la oficina de trabajos de qb-cityhall
